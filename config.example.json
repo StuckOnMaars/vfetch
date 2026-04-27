@@ -1,0 +1,34 @@
+{
+  "theme": "cyberpunk",
+
+  "modules": [
+    "os",
+    "kernel",
+    "uptime",
+    "cpu",
+    "gpu",
+    "ram",
+    "disk",
+    "shell",
+    "terminal",
+    "resolution",
+    "battery",
+    "network"
+  ],
+
+  "animations": true,
+  "animation_speed": 0.012,
+
+  "logo": "auto",
+  "custom_logo": null,
+
+  "gradient_text": true,
+
+  "bar_width": 20,
+  "bar_style": "smooth",
+
+  "live_refresh": 1.0,
+  "show_icons": true,
+  "compact": false,
+  "color_blocks": true
+}
