@@ -1,4 +1,4 @@
-# vfetch ⚡
+# vfetch 
 
 > **Modern, animated system info tool for Debian-based Linux**
 > Like Neofetch — but with gradients, typewriter animations, live mode, and full customizability.
