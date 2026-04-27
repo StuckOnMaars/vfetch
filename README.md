@@ -35,7 +35,7 @@
 ### Quick install (recommended)
 
 ```bash
-git clone https://github.com/yourusername/vfetch.git
+git clone https://github.com/StuckOnMaarz/vfetch.git
 cd vfetch
 chmod +x install.sh
 ./install.sh
