@@ -14,7 +14,7 @@
 
 ---
 
-## ✨ Features
+##  Features
 
 - **OS / Kernel / Uptime / CPU / GPU / RAM / Disk / Shell / Terminal / Resolution / Battery / Network**
 - **Smooth gradient bars** for CPU, RAM, Disk usage
@@ -30,7 +30,7 @@
 
 ---
 
-## 🚀 Installation
+##  Installation
 
 ### Quick install (recommended)
 
@@ -51,7 +51,7 @@ sudo chmod +x /usr/local/bin/vfetch
 
 ---
 
-## 🎮 Usage
+##  Usage
 
 ```bash
 vfetch                          # Normal run with animations
@@ -66,7 +66,7 @@ vfetch --init-config            # Write default config to ~/.config/vfetch/
 
 ---
 
-## 🎨 Themes
+##  Themes
 
 | Theme        | Colors                                |
 |--------------|---------------------------------------|
@@ -84,7 +84,7 @@ vfetch --list-themes
 
 ---
 
-## ⚙️ Configuration
+##  Configuration
 
 Config file lives at: `~/.config/vfetch/config.json`
 
@@ -138,7 +138,7 @@ Or simply place a `logo.txt` in `~/.config/vfetch/` — it will be used automati
 
 ---
 
-## 📦 Dependencies
+##  Dependencies
 
 | Package  | Required | Purpose                        |
 |----------|----------|--------------------------------|
@@ -153,7 +153,7 @@ pip install psutil rich
 
 ---
 
-## 🖥️ Supported Systems
+##  Supported Systems
 
 - Ubuntu 20.04+
 - Debian 11+
@@ -163,7 +163,7 @@ pip install psutil rich
 
 ---
 
-## 🔧 Performance
+##  Performance
 
 - Cold start: **~80–150ms** without GPU detection
 - With `nvidia-smi`: add ~50ms
@@ -171,6 +171,6 @@ pip install psutil rich
 
 ---
 
-## 📝 License
+##  License
 
 MIT — do whatever you want with it.
